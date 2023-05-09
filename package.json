@@ -1,7 +1,7 @@
 {
   "name": "react-mall",
   "version": "1.0.0",
-  "homepage": "https://riyadh2k.github.io/product",
+  "homepage": "https://riyadh2k.github.io/React-webshop-v2/",
   "description": "",
   "scripts": {
     "dev": "parcel ./src/index.html",
