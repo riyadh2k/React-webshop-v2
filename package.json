@@ -1,6 +1,7 @@
 {
   "name": "react-mall",
   "version": "1.0.0",
+  "homepage": ".",
   "description": "",
   "scripts": {
     "dev": "parcel ./src/index.html",
